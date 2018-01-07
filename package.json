@@ -1,101 +1,32 @@
 {
-  "_args": [
-    [
-      {
-        "raw": "react-native-youtube",
-        "scope": null,
-        "escapedName": "react-native-youtube",
-        "name": "react-native-youtube",
-        "rawSpec": "",
-        "spec": "latest",
-        "type": "tag"
-      },
-      "/Users/kir/Documents/Projects/ListenOnRepeat"
-    ]
-  ],
-  "_from": "react-native-youtube@latest",
-  "_id": "react-native-youtube@1.0.1",
-  "_inCache": true,
-  "_location": "/react-native-youtube",
-  "_nodeVersion": "6.9.2",
-  "_npmOperationalInternal": {
-    "host": "s3://npm-registry-packages",
-    "tmp": "tmp/react-native-youtube-1.0.1.tgz_1508875276388_0.41635870188474655"
-  },
-  "_npmUser": {
-    "name": "davidohayon669",
-    "email": "noyaho@gmail.com"
-  },
-  "_npmVersion": "3.10.9",
-  "_phantomChildren": {},
-  "_requested": {
-    "raw": "react-native-youtube",
-    "scope": null,
-    "escapedName": "react-native-youtube",
-    "name": "react-native-youtube",
-    "rawSpec": "",
-    "spec": "latest",
-    "type": "tag"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/react-native-youtube/-/react-native-youtube-1.0.1.tgz",
-  "_shasum": "8d6ee69d88b913b4fa23ed64f99ae8812507745f",
-  "_shrinkwrap": null,
-  "_spec": "react-native-youtube",
-  "_where": "/Users/kir/Documents/Projects/ListenOnRepeat",
-  "author": {
-    "name": "Param Aggarwal"
-  },
-  "bugs": {
-    "url": "https://github.com/inProgress-team/react-native-youtube/issues"
-  },
-  "dependencies": {
-    "prop-types": "^15.5.0"
-  },
-  "description": "A <YouTube/> component for React Native.",
-  "devDependencies": {},
-  "directories": {},
-  "dist": {
-    "shasum": "8d6ee69d88b913b4fa23ed64f99ae8812507745f",
-    "tarball": "https://registry.npmjs.org/react-native-youtube/-/react-native-youtube-1.0.1.tgz"
-  },
-  "homepage": "https://github.com/inProgress-team/react-native-youtube#readme",
-  "keywords": [
-    "youtube",
-    "react",
-    "react-native"
-  ],
-  "license": "MIT",
-  "main": "main.js",
-  "maintainers": [
-    {
-      "name": "davidohayon669",
-      "email": "noyaho@gmail.com"
-    }
-  ],
   "name": "react-native-youtube",
-  "optionalDependencies": {},
-  "peerDependencies": {
-    "react-native": ">=0.37"
+  "version": "1.0.1",
+  "description": "A <YouTube/> component for React Native.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/inProgress-team/react-native-youtube.git"
+  },
+  "keywords": ["youtube", "react", "react-native"],
+  "author": "Param Aggarwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/inProgress-team/react-native-youtube/issues"
+  },
+  "homepage": "https://github.com/inProgress-team/react-native-youtube#readme",
+  "dependencies": {
+    "prop-types": "^15.5.0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.37"
   },
   "rnpm": {
     "android": {
       "packageInstance": "new ReactNativeYouTube()"
     },
-    "assets": [
-      "assets"
-    ]
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "1.0.1"
+    "assets": ["assets"]
+  }
 }
