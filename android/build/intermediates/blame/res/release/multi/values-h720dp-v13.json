@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/kir/Documents/Projects/ListenOnRepeat/node_modules/react-native-youtube/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "/Users/kir/.android/build-cache/9c71f344fae1db8d4fa45657f225fb1b5dbd8609/output/res/values-h720dp/values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 66,
+                        "endOffset": 345
+                    }
+                }
+            }
+        ]
+    }
+]
